@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me :
 EMAIL : mash3rbot@gmail.com
-LINKEDIN : https://www.linkedin.com/in/abdul-altamash/
+LINKEDIN : https://www.linkedin.com/in/abdul-altamash
 
 <!---
 notMash3r/notMash3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
