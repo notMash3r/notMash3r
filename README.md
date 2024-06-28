@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notMash3r
+- 👋 Hi, I’m Altamash Malik.
 - 👀 I’m interested in Competitive Programming. 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Nothing.
